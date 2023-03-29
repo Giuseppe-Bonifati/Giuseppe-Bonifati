@@ -10,7 +10,8 @@
 
 ▪ 🔭 I’m currently working on My Porfolio📜
 
-▪ ⚡ Fun fact:
+▪ ⚡ Fun fact: travel to Japan 🏯
+
 
 
 <!--
@@ -36,6 +37,19 @@ Here are some ideas to get you started:
   
 </div>
 
+## :fire: My Stats
+
+<div align = "center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Giuseppe-Bonifati&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" > 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe-Bonifati&langs_count=8)](https://github.com/Giuseppe-Bonifati/github-readme-stats)
+</div>
+
 
 ## 📲 Connect with me
 
+<div align = "center">
+<a href="mailto:giuseppebonifati1989@gmail.com"><img src =  "https://img.shields.io/badge/-Gmail-orange?logo=gmail" > </a>
+<a href="https://www.linkedin.com/in/giuseppe-bonifati-738640261/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
+
+</div>
