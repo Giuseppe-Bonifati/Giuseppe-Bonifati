@@ -10,7 +10,7 @@
 
 ▪ 🔭 I’m currently working on My Porfolio📜
 
-▪ ⚡ Fun fact: travel to Japan 🏯
+▪ ⚡ Fun fact: I would like to visit Japan 🏯
 
 
 
@@ -37,12 +37,12 @@ Here are some ideas to get you started:
   
 </div>
 
-## :fire: My Stats
+## 📈 My Stats
 
 <div align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=Giuseppe-Bonifati&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" > 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe-Bonifati&langs_count=8)](https://github.com/Giuseppe-Bonifati/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe-Bonifati&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/Giuseppe-Bonifati/github-readme-stats)
 </div>
 
 
