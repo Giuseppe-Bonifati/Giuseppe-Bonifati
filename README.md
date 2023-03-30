@@ -2,15 +2,25 @@
   <ul>
     <summary><h1 style="display: inline-block;">Hi there 👋</h1></summary>
   </ul>
+  <h4>I am Giuseppe from Italy, I'm a passionate programmer/web developer <h4>
 </div>
+    <br />
+    <br />
 
+
+    
+ 
 
 
 ▪ 🌱 I’m currently learning <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
 
 ▪ 🔭 I’m currently working on My Porfolio📜
+    
+▪ ⚡ Fun fact: I love travelling ✈️
 
-▪ ⚡ Fun fact: I would like to visit Japan 🏯
+
+
+
 
 
 
@@ -33,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
 
-<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   
 </div>
 
