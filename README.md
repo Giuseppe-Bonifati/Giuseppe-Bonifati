@@ -4,12 +4,16 @@
   </ul>
   <h4>I am Giuseppe from Italy, I'm a passionate programmer/web developer <h4>
 </div>
-    <br />
-    <br />
-
-
     
- 
+    
+
+
+<div align = "center"> <img src="https://user-images.githubusercontent.com/110894389/231495414-962b8afe-c7eb-4fe5-8fc7-137883346e7d.gif">
+
+</div>
+<br />
+<br />
+
 
 
 ▪ 🌱 I’m currently learning <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
